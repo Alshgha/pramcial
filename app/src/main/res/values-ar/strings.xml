@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">AlShaqahaaPharmacies</string>
+    <string name="email">الايميل</string>
+    <string name="enter_email_to_send_reset_email">أدخل البريد الإلكتروني لإرسال بريد إلكتروني لإعادة التعيين</string>
+    <string name="forget_password">نسيان كلمة المرو</string>
+    <string name="password">كلمة المرور</string>
+    <string name="forgot_password">نسيان كلمة المرور</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="register">تسجيل</string>
+    <string name="create_now">انشاء حساب!</string>
+    <string name="don_t_have_an_account">هل تريد انشاء حساب ؟</string>
+    <string name="log_in">تسجيل الدخول</string>
+    <string name="use">الاستخدام</string>
+    <string name="condition">الحالة</string>
+    <string name="price">السعر</string>
+    <string name="names">الاسم</string>
+    <string name="send">ارسال</string>
+    <string name="home">الريئيسية</string>
+    <string name="search">بحث</string>
+    <string name="branch">فروع</string>
+    <string name="cart">السلة</string>
+    <string name="card_number">رقم البطاقة</string>
+    <string name="paying_off">الدفع</string>
+    <string name="_00_00">00/00</string>
+    <string name="cash">كاش</string>
+    <string name="credit_card">شبكة</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="delete">حذف</string>
+    <string name="who_are_we">من نحن</string>
+    <string name="alshaqha_pharmacy_is_your_comprehensive_online_store_to_meet_your_vitamin_and_painkillers_needs">AlShaqha Pharmacy is your comprehensive online store to meet your vitamin and painkillers needs</string>
+
+    <string-array name="branches">
+        <item>Branches</item>
+        <item>طريق الملك فهد</item>
+        <item>حي النرجس</item>
+        <item>طريق الملك سلمان</item>
+    </string-array>
+</resources>

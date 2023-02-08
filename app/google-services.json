@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140790619010",
+    "project_id": "al-shaqahaa-pharmacies",
+    "storage_bucket": "al-shaqahaa-pharmacies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140790619010:android:eb2b52323290a78f78cd9b",
+        "android_client_info": {
+          "package_name": "com.example.alshaqahaapharmacies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140790619010-vnjf0bepb01bgkfvgacnhdutsgahjusu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiUZET8SPYV0CtZ5aT3Vm2PvSqPMi6PDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140790619010-vnjf0bepb01bgkfvgacnhdutsgahjusu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
